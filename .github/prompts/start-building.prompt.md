@@ -51,6 +51,7 @@ You are an expert full-stack engineer. Build a **minimal original RebelMouse-sty
    * Next.js + TypeScript
    * TailwindCSS + shadcn/ui
    * Responsive layout for desktop/tablet/mobile
+   * shadcn components for consistent UI (all components are already installed)
 
 6. **Backend**
 
