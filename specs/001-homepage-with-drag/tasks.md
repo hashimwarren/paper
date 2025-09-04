@@ -46,7 +46,7 @@ Single Next.js project structure (from plan.md):
 
 ## Phase 3.1: Setup
 - [x] T001 Install Next.js dependencies: @dnd-kit/core, @dnd-kit/sortable, @tiptap/react, @tiptap/starter-kit, dexie
-- [ ] T002 [P] Configure TypeScript strict mode and path aliases in tsconfig.json
+- [x] T002 [P] Configure TypeScript strict mode and path aliases in tsconfig.json
 - [ ] T003 [P] Setup Jest and React Testing Library configuration in jest.config.js
 - [ ] T004 [P] Setup Playwright for E2E testing in playwright.config.ts
 - [ ] T005 [P] Create base TypeScript types in src/types/content.ts and src/types/sections.ts
